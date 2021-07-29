@@ -1,0 +1,16 @@
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\bin\Debug\net5.0\src.exe
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\bin\Debug\net5.0\src.deps.json
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\bin\Debug\net5.0\src.runtimeconfig.json
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\bin\Debug\net5.0\src.runtimeconfig.dev.json
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\bin\Debug\net5.0\src.dll
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\bin\Debug\net5.0\ref\src.dll
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\bin\Debug\net5.0\src.pdb
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\obj\Debug\net5.0\src.csproj.AssemblyReference.cache
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\obj\Debug\net5.0\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\obj\Debug\net5.0\src.AssemblyInfoInputs.cache
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\obj\Debug\net5.0\src.AssemblyInfo.cs
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\obj\Debug\net5.0\src.csproj.CoreCompileInputs.cache
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\obj\Debug\net5.0\src.dll
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\obj\Debug\net5.0\ref\src.dll
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\obj\Debug\net5.0\src.pdb
+C:\Users\jackc\OneDrive\Documents\GitHub\commandquest\src\obj\Debug\net5.0\src.genruntimeconfig.cache
